@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MonyMKM
 - 👀 I’m interested in coding and writing. 
 - 🌱 I’m currently pursuing Software Engineering
-- 💞️ I’m looking to collaborate on anything python and HTML related. 
+- 💞️ I’m looking to collaborate on ...(open to suggestion)
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm short sighted. 
