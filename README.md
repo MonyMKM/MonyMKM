@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @MonyMKM
 - 👀 I’m interested in coding and writing. 
-- 🌱 I’m currently pursuing Software Engineering
+- 🌱 I’m currently pursuing Software Engineering Major with minors in
+     + Applied Data Analytics
+     + Information Systems/Technology- 
 - 💞️ I’m looking to collaborate on ...(open to suggestion)
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
